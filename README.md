@@ -1,7 +1,7 @@
 # Enterprise Infrastructure Monitoring & Alerting System
 
 ## Overview
-Proyek ini mendokumentasikan implementasi sistem pemantauan infrastruktur IT skala enterprise. Sistem ini dirancang untuk melakukan pemantauan kesehatan server secara real-time, pengelolaan log terpusat, serta pengiriman notifikasi gangguan otomatis (*automated alerting*) guna memastikan ketersediaan layanan (*uptime*) dan mempercepat proses penanganan insiden (*Mean Time to Resolve / MTTR*).
+Proyek ini mendokumentasikan implementasi sistem pemantauan infrastruktur IT Operasional skala enterprise. Sistem ini dirancang untuk melakukan pemantauan kesehatan server secara real-time, pengelolaan log terpusat, serta pengiriman notifikasi gangguan otomatis (*automated alerting*) guna memastikan ketersediaan layanan (*uptime*) dan mempercepat proses penanganan insiden (*Mean Time to Resolve / MTTR*).
 
 ---
 
